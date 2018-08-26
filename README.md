@@ -10,7 +10,7 @@
 
 - git pull
 
-##設定
+## 設定
 - git config --global user.name "${あなたの名前}"
 - git config --global user.email ${あなたのメールアドレス}
 - git config --global core.editor "vim"
