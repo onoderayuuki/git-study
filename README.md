@@ -13,10 +13,11 @@
 - git config --global user.email ${あなたのメールアドレス}
 - git config --global core.editor "vim"
 - git config -l コンフィグの確認
-
 ### その他
 - git init　git リポジトリを作る
 - git status 現在の変更情報の登録（ステージング）状況
 - git log コミットログを確認
 - git tag X.0
-
+### ISSUE
+ - #1    イシュー識別ID　リンクにもなるよ 
+ - ${commit_hash}　コミットの識別ID 
